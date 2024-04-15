@@ -3,13 +3,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, add these env variables 
+
 GITHUB_ID= 
+
 GITHUB_SECRET_ID= 
 
 EMAIL_SERVER_USER=
+
 EMAIL_SERVER_PASSWORD=
+
 EMAIL_SERVER_HOST=
+
 EMAIL_SERVER_PORT=
+
 EMAIL_FROM=
 
 DATABASE_URL= "postgres://......"
